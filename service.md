@@ -8,9 +8,13 @@ permalink: /service/
 ### Program committee member:
 
 #### Conferences
+
 - ENASE (2018 – 2020)
 
 #### Workshops, ...
+
+- RealDataFCA, ICFCA (2021)
+- Challenge Solution, SPLC (2021)
 - Artifact track, SPLC (2019 – )
 - Demonstration and tool track, SPLC (2020)
 - VariVolution (2019 – 2020)
