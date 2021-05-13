@@ -13,6 +13,8 @@ permalink: /service/
 
 #### Workshops, ...
 
+- Workshop on Artificial Intelligence and Model-driven Engineering, MODELS (2021)
+- Workshop on Conceptual Modeling Meets Artificial Intelligence, ER (2021)
 - RealDataFCA, ICFCA (2021)
 - Challenge Solution, SPLC (2021)
 - Artifact track, SPLC (2019 – )
