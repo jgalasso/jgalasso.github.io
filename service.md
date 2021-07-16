@@ -9,6 +9,7 @@ permalink: /service/
 
 #### Conferences
 
+- ICSR (2022)
 - ENASE (2018 – 2020)
 
 #### Workshops, ...
