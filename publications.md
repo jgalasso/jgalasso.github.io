@@ -11,6 +11,9 @@ Publications in [DBLP](https://dblp.uni-trier.de/pid/167/4978.html) / [Google Sc
 
 ## 2021
 
+- Zahra VaraminyBahnemiry, Jessie Galasso, Khalid Belharbi, Houari A. Sahraoui   
+__Automated Patch Generation for Fixing Semantic Errors in ATL Transformation Rules.__
+Accepted for publication at _MODELS2021_
 - Zahra VaraminyBahnemiry, Jessie Galasso, Houari A. Sahraoui   
 __Fixing Multiple Type Errors in Model Transformations with Alternative Oracles to Test Case.__
 Accepted for publication at _ECMFA2021_
