@@ -12,12 +12,11 @@ permalink: /service/
 - ICSR (2022)
 - ENASE (2018 – 2020)
 
-#### Workshops, ...
+#### Workshops, tracks ...
 
 - Workshop on Artificial Intelligence and Model-driven Engineering, MODELS (2021)
-- Workshop on Conceptual Modeling Meets Artificial Intelligence, ER (2021)
 - RealDataFCA, ICFCA (2021)
-- Challenge Solution, SPLC (2021)
+- Challenge Solutions, SPLC (2021)
 - Artifact track, SPLC (2019 – )
 - Demonstration and tool track, SPLC (2020)
 - VariVolution (2019 – 2020)
@@ -35,7 +34,8 @@ permalink: /service/
 
 ### Organisation committee:
 
-- ASE 2018
+- Tools and Demo co-chair, MoDELS 2022
+- Social media co-chair, ASE 2018
 - Journées nationales du groupe de recherche du CNRS en génie de la programmation et du logiciel 2017, organisées
 avec les conférences CIEL (Conférence en IngénieriE du Logiciel) et AFADL (Approches Formelles dans l’Assistance au
 Développement de Logiciels)

@@ -12,12 +12,11 @@ Publications in [DBLP](https://dblp.uni-trier.de/pid/167/4978.html) / [Google Sc
 ## 2021
 
 - Zahra VaraminyBahnemiry, Jessie Galasso, Khalid Belharbi, Houari A. Sahraoui   
-__Automated Patch Generation for Fixing Semantic Errors in ATL Transformation Rules.__
-Accepted for publication at _MODELS2021_
+__Automated Patch Generation for Fixing Semantic Errors in ATL Transformation Rules.__ In proceedings of the _24th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MoDELS 2021)_, pp. 13-23 (2021) ([link](https://ieeexplore.ieee.org/document/9592500))
+- István Dávid, Jessie Galasso, Eugene Syriani
+__Inference of Simulation Models in Digital Twins by Reinforcement Learning.__  In proceedings of the _1st International Workshop on Model-Driven Engineering for Digital Twins_ (ModDit 2021, MoDELS companion proceedings), pp. 221-224 (2021) ([link](https://ieeexplore.ieee.org/document/9643719))
 - Zahra VaraminyBahnemiry, Jessie Galasso, Houari A. Sahraoui   
-__Fixing Multiple Type Errors in Model Transformations with Alternative Oracles to Test Case.__
-Accepted for publication at _ECMFA2021_
-([pdf](https://arxiv.org/abs/2012.07953))
+__Fixing Multiple Type Errors in Model Transformations with Alternative Oracles to Test Case.__ Journal of Object Technology, volume 20(3), 9:1-14 (2021) ([pdf](https://arxiv.org/abs/2012.07953))
 
 
 ## 2020
