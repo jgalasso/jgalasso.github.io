@@ -9,6 +9,14 @@ permalink: /publications/
 ## Links
 Publications in [DBLP](https://dblp.uni-trier.de/pid/167/4978.html) / [Google Scholar](https://scholar.google.fr/citations?user=uZj-UtsAAAAJ&hl=fr&oi=sra) / [ORCID](https://orcid.org/0000-0002-9868-1814)
 
+## 2022
+
+- Jessie Galasso, Michalis Famelis and Houari A. Sahraoui   
+__Fine-grained Analysis of Similar Code Snippets.__ In proceedings of the _20th International Conference on Software and Systems Reuse_ (ICSR 2022), pp.??- ?? (2022)
+
+ - Jessie Galasso and Marianne Huchard   
+__Extending boolean variability relationship extraction to multi-valued software descriptions.__ To be published in the _Handbook of Re-Engineering Software Intensive Systems into Software Product Lines_, Springer (2022)
+
 ## 2021
 
 - Zahra VaraminyBahnemiry, Jessie Galasso, Khalid Belharbi, Houari A. Sahraoui   
@@ -17,7 +25,6 @@ __Automated Patch Generation for Fixing Semantic Errors in ATL Transformation Ru
 __Inference of Simulation Models in Digital Twins by Reinforcement Learning.__  In proceedings of the _1st International Workshop on Model-Driven Engineering for Digital Twins_ (ModDit 2021, MoDELS companion proceedings), pp. 221-224 (2021) ([link](https://ieeexplore.ieee.org/document/9643719))
 - Zahra VaraminyBahnemiry, Jessie Galasso, Houari A. Sahraoui   
 __Fixing Multiple Type Errors in Model Transformations with Alternative Oracles to Test Case.__ Journal of Object Technology, volume 20(3), 9:1-14 (2021) ([pdf](https://arxiv.org/abs/2012.07953))
-
 
 ## 2020
 
