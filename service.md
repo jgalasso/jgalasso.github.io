@@ -14,7 +14,7 @@ permalink: /service/
 
 #### Workshops, tracks ...
 
-- Workshop on Artificial Intelligence and Model-driven Engineering, MODELS (2021)
+- Workshop on Artificial Intelligence and Model-driven Engineering, MODELS (2021 - 2022)
 - RealDataFCA, ICFCA (2021)
 - Challenge Solutions, SPLC (2021)
 - Artifact track, SPLC (2019 – )
@@ -23,6 +23,8 @@ permalink: /service/
 
 ### Reviewer or sub-reviewer:
 
+- JOT 2022
+- ETAFCA 2022
 - GECCO 2021
 - SANER 2019, SANER 2021
 - EMSE 2016, EMSE 2017, 2021
