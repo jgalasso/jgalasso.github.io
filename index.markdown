@@ -13,3 +13,9 @@ Since July 2020, I am a postdoctoral researcher in the [Geodes](http://geodes.ir
 I received a Ph.D in Computer Science in 2018 from the University of Montpellier (France), while working at the [Laboratory of Computer Science, Robotics and Microelectronics of Montpellier](https://www.lirmm.fr/) (LIRMM), under the supervision of [Marianne Huchard](https://marianne-huchard.fr/) and [Clémentine Nebut](http://www.lirmm.fr/users/utilisateurs-lirmm/clementine-nebut). During my Ph.D, I worked with symbolic AI for model extraction and software product line reverse engineering. I continued this work with complex software product lines as a teaching and research assistant between 2018 and 2019. From 2019 to 2020, I worked on problematics related to interoperability and ontology matching at the  [French National Institute for Sustainable Development](https://www.ird.fr/) (IRD).  
 
 My research interests are at the intersection of AI and software engineering. They include  automated software engineering, variability, knowledge engineering, machine learning, and model-driven engineering.
+
+## Events
+
+* [MDE Intelligence 2022: The 4th Workshop on Artificial Intelligence and Model-driven Engineering](https://mde-intelligence.github.io/)
+
+* [Tools & Demonstrations track, 25th International Conference on Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/track/models-2022/models-2022-tools---demonstrations)
