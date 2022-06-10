@@ -16,6 +16,8 @@ My research interests are at the intersection of AI and software engineering. Th
 
 ## Events
 
+* [Tools & Demonstrations track, 25th International Conference on Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/track/models-2022/models-2022-tools---demonstrations)
+
 * [MDE Intelligence 2022: The 4th Workshop on Artificial Intelligence and Model-driven Engineering](https://mde-intelligence.github.io/)
 
-* [Tools & Demonstrations track, 25th International Conference on Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/track/models-2022/models-2022-tools---demonstrations)
+* [The 20th International Conference on Software and Systems Reuse (ICSR)](https://icsr2022v2.wp.imt.fr/)
