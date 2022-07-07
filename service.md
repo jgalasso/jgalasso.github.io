@@ -23,6 +23,7 @@ permalink: /service/
 
 ### Reviewer or sub-reviewer:
 
+- MODELS 2022
 - ASE 2022
 - JOT 2022
 - ETAFCA 2022
@@ -37,7 +38,7 @@ permalink: /service/
 
 ### Organisation committee:
 
-- Tools and Demo co-chair, MoDELS 2022
+- Tools and Demos co-chair, MoDELS 2022
 - Social media co-chair, ASE 2018
 - Journées nationales du groupe de recherche du CNRS en génie de la programmation et du logiciel 2017, organisées
 avec les conférences CIEL (Conférence en IngénieriE du Logiciel) et AFADL (Approches Formelles dans l’Assistance au
