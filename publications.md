@@ -12,7 +12,7 @@ Publications in [DBLP](https://dblp.uni-trier.de/pid/167/4978.html) / [Google Sc
 ## 2022
 
 - Jessie Galasso, Michalis Famelis and Houari A. Sahraoui   
-__Fine-grained Analysis of Similar Code Snippets.__ In proceedings of the _20th International Conference on Software and Systems Reuse_ (ICSR 2022), pp.??- ?? (2022)
+__Fine-grained Analysis of Similar Code Snippets.__ In proceedings of the _20th International Conference on Software and Systems Reuse_ (ICSR 2022), pp. 3-21 (2022)
 
  - Jessie Galasso and Marianne Huchard   
 __Extending boolean variability relationship extraction to multi-valued software descriptions.__ To be published in the _Handbook of Re-Engineering Software Intensive Systems into Software Product Lines_, Springer (2022)
