@@ -16,10 +16,14 @@ My research interests are at the intersection of AI and software engineering. Th
 
 ## Events
 
-* [17th International Working Conference on Variability Modelling of Software-Intensive Systems](https://vamos2023.sdu.dk/)
+* Paper accepted in the ASE'22 NIER track (__Global Decision Making Over Deep Variability in Feedback-Driven Software Development__)
 
-* [Tools & Demonstrations track, 25th International Conference on Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/track/models-2022/models-2022-tools---demonstrations)
+* PC member in the [17th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS'23)](https://vamos2023.sdu.dk/)
 
-* [MDE Intelligence 2022: The 4th Workshop on Artificial Intelligence and Model-driven Engineering](https://mde-intelligence.github.io/)
+* PC co-chair of the [Tools & Demonstrations track, 25th International Conference on Model Driven Engineering Languages and Systems (MODELS'22)](https://conf.researchr.org/track/models-2022/models-2022-tools---demonstrations)
 
-* [The 20th International Conference on Software and Systems Reuse (ICSR)](https://icsr2022v2.wp.imt.fr/)
+* Paper accepted in ICSR'22 (__Fine-grained Analysis of Similar Code Snippets__)
+
+* PC member in the [4th Workshop on Artificial Intelligence and Model-driven Engineering (MDEIntelligence'22)](https://mde-intelligence.github.io/)
+
+* PC member in the [20th International Conference on Software and Systems Reuse (ICSR'22)](https://icsr2022v2.wp.imt.fr/)
