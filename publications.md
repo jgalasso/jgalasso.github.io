@@ -11,6 +11,9 @@ Publications in [DBLP](https://dblp.uni-trier.de/pid/167/4978.html) / [Google Sc
 
 ## 2022
 
+- Jörg Kienzle, Benoit Combemale, Gunter Mussbacher, Omar Alam, Francis Bordeleau, Loli Burgueño, Gregor Engels, Jessie Galasso, Jean-Marc Jézéquel, Bettina Kemme, Sébastien Mosser, Houari Sahraoui, Maximilian Schiedermeier, Eugene Syriani   
+__Global Decision Making Over Deep Variability in Feedback-Driven Software Development.__ In proceedings of the _37th IEEE/ACM International Conference on Automated Software Engineering_ (ASE 2022), pp. ?? (2022)
+
 - Jessie Galasso, Michalis Famelis and Houari A. Sahraoui   
 __Fine-grained Analysis of Similar Code Snippets.__ In proceedings of the _20th International Conference on Software and Systems Reuse_ (ICSR 2022), pp. 3-21 (2022)
 
@@ -21,7 +24,7 @@ __Extending boolean variability relationship extraction to multi-valued software
 
 - Zahra VaraminyBahnemiry, Jessie Galasso, Khalid Belharbi, Houari A. Sahraoui   
 __Automated Patch Generation for Fixing Semantic Errors in ATL Transformation Rules.__ In proceedings of the _24th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MoDELS 2021)_, pp. 13-23 (2021) ([link](https://ieeexplore.ieee.org/document/9592500))
-- István Dávid, Jessie Galasso, Eugene Syriani
+- István Dávid, Jessie Galasso, Eugene Syriani   
 __Inference of Simulation Models in Digital Twins by Reinforcement Learning.__  In proceedings of the _1st International Workshop on Model-Driven Engineering for Digital Twins_ (ModDit 2021, MoDELS companion proceedings), pp. 221-224 (2021) ([link](https://ieeexplore.ieee.org/document/9643719))
 - Zahra VaraminyBahnemiry, Jessie Galasso, Houari A. Sahraoui   
 __Fixing Multiple Type Errors in Model Transformations with Alternative Oracles to Test Case.__ Journal of Object Technology, volume 20(3), 9:1-14 (2021) ([pdf](https://arxiv.org/abs/2012.07953))
