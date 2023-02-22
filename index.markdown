@@ -8,13 +8,17 @@ title: Home
 ---
 <img src="./photo.png" style="float: right;" width = "150px" />
 
-Since July 2020, I am a postdoctoral researcher in the [Geodes](http://geodes.iro.umontreal.ca/fr/) team from the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/) of the University of Montréal, working with [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/) and [Michalis Famelis](https://michalis.famelis.info/). I obtained an [IVADO](https://ivado.ca/en/) [postdoctoral research funding](https://ivado.ca/en/scholarships-and-grants/postdoctoral-research-funding/) in October 2020 to work on machine learning and optimisation approaches to handle source code.  
+Since July 2020, I am a postdoctoral researcher in the [Geodes](http://geodes.iro.umontreal.ca/fr/) team from the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/) of the University of Montréal, working with [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/) and [Michalis Famelis](https://michalis.famelis.info/). I obtained an [IVADO](https://ivado.ca/en/) [postdoctoral research funding](https://ivado.ca/en/scholarships-and-grants/postdoctoral-research-funding/) in October 2020 to work on machine learning and optimisation approaches for source code recommendation.  
 
 I received a Ph.D in Computer Science in 2018 from the University of Montpellier (France), while working at the [Laboratory of Computer Science, Robotics and Microelectronics of Montpellier](https://www.lirmm.fr/) (LIRMM), under the supervision of [Marianne Huchard](https://marianne-huchard.fr/) and [Clémentine Nebut](http://www.lirmm.fr/users/utilisateurs-lirmm/clementine-nebut). During my Ph.D, I worked with symbolic AI for model extraction and software product line reverse engineering. I continued this work with complex software product lines as a teaching and research assistant between 2018 and 2019. From 2019 to 2020, I worked on problematics related to knowledge representation, interoperability and ontology matching at the [French National Institute for Sustainable Development](https://www.ird.fr/) (IRD).  
 
-My research interests are at the intersection of AI and software engineering. They include automated software engineering, machine learning, knowledge engineering, variability management and model-driven engineering.
+My research interests include augmented software engineering, variability management and modeling, model-driven engineering, machine learning, mining software repositories and software reverse-engineering.
 
 ## Events
+
+* [Handbook of Re-Engineering Software Intensive Systems into Software Product Lines](https://link.springer.com/book/10.1007/978-3-031-11686-5)
+
+* PC member in the [27th ACM International Systems and Software Product Line Conference (SPLC'23)](https://2023.splc.net/)
 
 * Paper accepted in the ASE'22 NIER track (__Global Decision Making Over Deep Variability in Feedback-Driven Software Development__)
 
