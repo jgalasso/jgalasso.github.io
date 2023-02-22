@@ -9,16 +9,18 @@ permalink: /publications/
 ## Links
 Publications in [DBLP](https://dblp.uni-trier.de/pid/167/4978.html) / [Google Scholar](https://scholar.google.fr/citations?user=uZj-UtsAAAAJ&hl=fr&oi=sra) / [ORCID](https://orcid.org/0000-0002-9868-1814)
 
+## 2023
+
+ - Jessie Galasso and Marianne Huchard   
+__Extending boolean variability relationship extraction to multi-valued software descriptions.__ Handbook of Re-Engineering Software Intensive Systems into Software Product Lines_, pp. 143-173, Springer (2023)
+
 ## 2022
 
 - Jörg Kienzle, Benoit Combemale, Gunter Mussbacher, Omar Alam, Francis Bordeleau, Loli Burgueño, Gregor Engels, Jessie Galasso, Jean-Marc Jézéquel, Bettina Kemme, Sébastien Mosser, Houari Sahraoui, Maximilian Schiedermeier, Eugene Syriani   
-__Global Decision Making Over Deep Variability in Feedback-Driven Software Development.__ In proceedings of the _37th IEEE/ACM International Conference on Automated Software Engineering_ (ASE 2022), pp. ?? (2022)
+__Global Decision Making Over Deep Variability in Feedback-Driven Software Development.__ In proceedings of the _37th IEEE/ACM International Conference on Automated Software Engineering_ (ASE 2022), pp. 178:1-178:6 (2022)
 
 - Jessie Galasso, Michalis Famelis and Houari A. Sahraoui   
 __Fine-grained Analysis of Similar Code Snippets.__ In proceedings of the _20th International Conference on Software and Systems Reuse_ (ICSR 2022), pp. 3-21 (2022)
-
- - Jessie Galasso and Marianne Huchard   
-__Extending boolean variability relationship extraction to multi-valued software descriptions.__ To be published in the _Handbook of Re-Engineering Software Intensive Systems into Software Product Lines_, Springer (2022)
 
 ## 2021
 
