@@ -9,6 +9,7 @@ permalink: /service/
 
 #### Conferences
 
+- SPLC (2023)
 - ICSR (2022)
 - ENASE (2018 – 2020)
 
@@ -40,6 +41,7 @@ permalink: /service/
 
 ### Organisation committee:
 
+- Guest editor for the Special Issue on Tools and Demonstrations in Model-Driven Engineering, Science of Computer Programming
 - Tools and Demos co-chair, MoDELS 2022
 - Social media co-chair, ASE 2018
 - Journées nationales du groupe de recherche du CNRS en génie de la programmation et du logiciel 2017, organisées
