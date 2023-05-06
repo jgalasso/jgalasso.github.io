@@ -16,6 +16,8 @@ My research interests include augmented software engineering, variability manage
 
 ## Events
 
+* Co-organizer of the [5th Workshop on Artificial Intelligence and Model-driven Engineering (MDEIntelligence'23)](https://mde-intelligence.github.io/)
+
 * [Handbook of Re-Engineering Software Intensive Systems into Software Product Lines](https://link.springer.com/book/10.1007/978-3-031-11686-5)
 
 * PC member in the [27th ACM International Systems and Software Product Line Conference (SPLC'23)](https://2023.splc.net/)
