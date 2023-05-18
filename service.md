@@ -21,7 +21,7 @@ permalink: /service/
 - Challenge Solutions, SPLC (2021)
 - Artifact track, SPLC (2019 – 2021)
 - Demonstration and tool track, SPLC (2020)
-- VariVolution (2019 – 2020)
+- VariVolution (2019 – 2020, 2023)
 
 ### Reviewer or sub-reviewer:
 
