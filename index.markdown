@@ -16,6 +16,10 @@ My research interests include augmented software engineering, variability manage
 
 ## Events
 
+* Paper accepted in ACMRep'23 (__Fingerprinting and Building Large Reproducible Datasets__) with Romain Lefeuvre, Benoît Combemale, Houari Sahraoui and Stefano Zacchiroli
+
+* PC member in the [6th International Workshop on Variability and Evolution of Software-Intensive Systems](https://sites.google.com/view/varivolution-2023/home)
+
 * Co-organizer of the [5th Workshop on Artificial Intelligence and Model-driven Engineering (MDEIntelligence'23)](https://mde-intelligence.github.io/)
 
 * [Handbook of Re-Engineering Software Intensive Systems into Software Product Lines](https://link.springer.com/book/10.1007/978-3-031-11686-5)
@@ -29,7 +33,3 @@ My research interests include augmented software engineering, variability manage
 * PC co-chair of the [Tools & Demonstrations track, 25th International Conference on Model Driven Engineering Languages and Systems (MODELS'22)](https://conf.researchr.org/track/models-2022/models-2022-tools---demonstrations)
 
 * Paper accepted in ICSR'22 (__Fine-grained Analysis of Similar Code Snippets__)
-
-* PC member in the [4th Workshop on Artificial Intelligence and Model-driven Engineering (MDEIntelligence'22)](https://mde-intelligence.github.io/)
-
-* PC member in the [20th International Conference on Software and Systems Reuse (ICSR'22)](https://icsr2022v2.wp.imt.fr/)
