@@ -11,6 +11,9 @@ Publications in [DBLP](https://dblp.uni-trier.de/pid/167/4978.html) / [Google Sc
 
 ## 2023
 
+ - Romain Lefeuvre, Jessie Galasso, Benoît Combemale, Houari Sahraoui and Stefano Zacchiroli    
+__Fingerprinting and Building Large Reproducible Datasets.__ Accepted in the _1st ACM Conference on Reproducibility and Replicability_ (ACMRep 2023), pp. ?? (2023)
+
  - Jessie Galasso and Marianne Huchard   
 __Extending boolean variability relationship extraction to multi-valued software descriptions.__ Handbook of Re-Engineering Software Intensive Systems into Software Product Lines_, pp. 143-173, Springer (2023)
 
