@@ -16,6 +16,8 @@ My research interests include augmented software engineering, variability manage
 
 ## Events
 
+* PC member in the [18th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS'24)](https://vamos2024.inf.unibe.ch/)
+
 * Paper accepted in ACMRep'23 (__Fingerprinting and Building Large Reproducible Datasets__) with Romain Lefeuvre, Benoît Combemale, Houari Sahraoui and Stefano Zacchiroli
 
 * PC member in the [6th International Workshop on Variability and Evolution of Software-Intensive Systems](https://sites.google.com/view/varivolution-2023/home)
