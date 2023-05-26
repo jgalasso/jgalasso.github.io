@@ -15,7 +15,7 @@ permalink: /service/
 
 #### Workshops, conference tracks ...
 
-- Workshop on Variability Modelling of Software-Intensive Systems (VaMoS) (2023)
+- Workshop on Variability Modelling of Software-Intensive Systems (VaMoS) (2023 - 2024)
 - Workshop on Artificial Intelligence and Model-driven Engineering, MODELS (2021 - 2022)
 - RealDataFCA, ICFCA (2021)
 - Challenge Solutions, SPLC (2021)
