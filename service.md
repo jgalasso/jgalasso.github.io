@@ -9,6 +9,7 @@ permalink: /service/
 
 #### Conferences
 
+- SANER (2024)
 - SPLC (2023)
 - ICSR (2022)
 - ENASE (2018 – 2020)
@@ -25,9 +26,10 @@ permalink: /service/
 
 ### Reviewer or sub-reviewer:
 
+- TSE
+- ASE 2022, ASE 2024
 - ICSE 2023
 - MODELS 2022
-- ASE 2022
 - JOT 2022
 - ETAFCA 2022
 - GECCO 2021
