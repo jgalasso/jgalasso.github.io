@@ -18,6 +18,8 @@ My research interests include augmented software engineering, variability manage
 
 * PC member in the [31th  IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'24)](https://conf.researchr.org/home/saner-2024)
 
+* Paper accepted in the journal of Software and Systems Modelling (__Fault Localization in DSLTrans Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis__) with Bentley James Oakes, Javier Troya and Manuel Wimmer
+
 * PC member in the [18th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS'24)](https://vamos2024.inf.unibe.ch/)
 
 * Paper accepted in ACMRep'23 (__Fingerprinting and Building Large Reproducible Datasets__) with Romain Lefeuvre, Benoît Combemale, Houari Sahraoui and Stefano Zacchiroli
