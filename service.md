@@ -26,11 +26,15 @@ permalink: /service/
 
 ### Reviewer or sub-reviewer:
 
-- TSE
+#### Journal
+- TSE (2023)
+- SCP (2023)
+- JOT (2022)
+
+#### Conferences and Workshops
 - ASE 2022, ASE 2024
 - ICSE 2023
 - MODELS 2022
-- JOT 2022
 - ETAFCA 2022
 - GECCO 2021
 - SANER 2019, SANER 2021
