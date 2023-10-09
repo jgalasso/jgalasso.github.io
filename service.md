@@ -11,7 +11,7 @@ permalink: /service/
 
 - SANER (2024)
 - SPLC (2023)
-- ICSR (2022)
+- ICSR (2022,24)
 - ENASE (2018 – 2020)
 
 #### Workshops, conference tracks ...
@@ -47,6 +47,7 @@ permalink: /service/
 
 ### Organisation committee:
 
+- Co-chair, MODEVAR 2024
 - MDEIntelligence, co-located with MoDELS 2023
 - Guest editor for the Special Issue on Tools and Demonstrations in Model-Driven Engineering, Science of Computer Programming
 - Tools and Demos co-chair, MoDELS 2022
