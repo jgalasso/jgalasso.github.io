@@ -16,6 +16,8 @@ Between 2020 and 2023, I was a postdoctoral researcher in the [Geodes](http://ge
 
 ## Events
 
+* Paper accepted in the International Journal of Approximate Reasoning (__Polyadic Relational Concept Analysis__) with Alexandre Bazin and Giacomo Kahn
+
 * Co-chair of the [6th International Workshop on Languages for Modelling Variability (MODEVAR'24)](https://modevar.github.io)
 
 * PC member in the 21st International Conference on Software and Systems Reuse (ICSR'24)
