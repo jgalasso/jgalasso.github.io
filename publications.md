@@ -10,6 +10,9 @@ permalink: /publications/
 Publications in [DBLP](https://dblp.uni-trier.de/pid/167/4978.html) / [Google Scholar](https://scholar.google.fr/citations?user=uZj-UtsAAAAJ&hl=fr&oi=sra) / [ORCID](https://orcid.org/0000-0002-9868-1814)
 
 ## 2023
+- Alexandre Bazin, Giacomo Kahn, Jessie Galasso
+__Polyadic Relational Concept Analysis.__ Accepted in the International Journal of Approximate Reasoning 
+
  - Bentley James Oakes, Javier Troya, Jessie Galasso and Manuel Wimmer   
 __Fault Localization in DSLTrans Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis.__ Accepted in the journal of Software and Systems Modelling (Sosym) 
 
