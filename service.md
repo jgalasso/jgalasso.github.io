@@ -11,7 +11,7 @@ permalink: /service/
 
 - SANER (2024)
 - SPLC (2023)
-- ICSR (2022,24)
+- ICSR (2022, 2024)
 - ENASE (2018 – 2020)
 
 #### Workshops, conference tracks ...

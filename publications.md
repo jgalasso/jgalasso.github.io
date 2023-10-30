@@ -14,13 +14,13 @@ Publications in [DBLP](https://dblp.uni-trier.de/pid/167/4978.html) / [Google Sc
 __Polyadic Relational Concept Analysis.__ Accepted in the International Journal of Approximate Reasoning 
 
  - Bentley James Oakes, Javier Troya, Jessie Galasso and Manuel Wimmer   
-__Fault Localization in DSLTrans Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis.__ Accepted in the journal of Software and Systems Modelling (Sosym) 
+__Fault Localization in DSLTrans Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis.__ Accepted in the journal of Software and Systems Modelling (Sosym) ([pdf](https://www.researchgate.net/profile/Bentley-Oakes/publication/374264497_Fault_localization_in_DSLTrans_model_transformations_by_combining_symbolic_execution_and_spectrum-based_analysis/links/65167ff21e2386049de30d20/Fault-localization-in-DSLTrans-model-transformations-by-combining-symbolic-execution-and-spectrum-based-analysis.pdf), [link](https://doi.org/10.1007/s10270-023-01123-3))
 
  - Romain Lefeuvre, Jessie Galasso, Benoît Combemale, Houari Sahraoui and Stefano Zacchiroli    
-__Fingerprinting and Building Large Reproducible Datasets.__ Accepted in the _1st ACM Conference on Reproducibility and Replicability_ (ACMRep 2023), pp. ?? (2023)
+__Fingerprinting and Building Large Reproducible Datasets.__ Accepted in the _1st ACM Conference on Reproducibility and Replicability_ (ACMRep 2023), pp. 27-36 (2023) ([pdf](https://hal.science/hal-04132604v1/preview/Fingerprinting_and_Building_Large_Reproducible_Datasets.pdf), [link](https://dl.acm.org/doi/10.1145/3589806.3600043))
 
  - Jessie Galasso and Marianne Huchard   
-__Extending boolean variability relationship extraction to multi-valued software descriptions.__ Handbook of Re-Engineering Software Intensive Systems into Software Product Lines_, pp. 143-173, Springer (2023)
+__Extending boolean variability relationship extraction to multi-valued software descriptions.__ Handbook of Re-Engineering Software Intensive Systems into Software Product Lines_, pp. 143-173, Springer (2023) ([pdf](https://hal-lirmm.ccsd.cnrs.fr/lirmm-04089535v1/document))
 
 ## 2022
 
@@ -28,7 +28,7 @@ __Extending boolean variability relationship extraction to multi-valued software
 __Global Decision Making Over Deep Variability in Feedback-Driven Software Development.__ In proceedings of the _37th IEEE/ACM International Conference on Automated Software Engineering_ (ASE 2022), pp. 178:1-178:6 (2022)
 
 - Jessie Galasso, Michalis Famelis and Houari A. Sahraoui   
-__Fine-grained Analysis of Similar Code Snippets.__ In proceedings of the _20th International Conference on Software and Systems Reuse_ (ICSR 2022), pp. 3-21 (2022)
+__Fine-grained Analysis of Similar Code Snippets.__ In proceedings of the _20th International Conference on Software and Systems Reuse_ (ICSR 2022), pp. 3-21 (2022) ([link](https://dl.acm.org/doi/abs/10.1007/978-3-031-08129-3_1))
 
 ## 2021
 

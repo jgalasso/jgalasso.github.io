@@ -35,6 +35,7 @@ header_pages:
   - teaching.md
   - publications.md
   - service.md
+  - student.md
 
 # Build settings
 theme: minima
