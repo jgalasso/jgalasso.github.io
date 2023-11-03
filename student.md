@@ -23,5 +23,6 @@ permalink: /student/
 - [Zotero](https://www.zotero.org) for bibliography management (+ browser plugin)
 - [Litmaps](https://www.litmaps.com) to discover related papers
 - [Create LateX tables online](https://www.tablesgenerator.com)
+- [Overleaf](http://overleaf.com)
 
 
