@@ -47,6 +47,7 @@ permalink: /service/
 
 ### Organisation committee:
 
+- Doctoral Symposium co-chair, SPLC 2024
 - Co-chair, MODEVAR 2024
 - MDEIntelligence, co-located with MoDELS 2023
 - Guest editor for the Special Issue on Tools and Demonstrations in Model-Driven Engineering, Science of Computer Programming
