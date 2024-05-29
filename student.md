@@ -7,7 +7,7 @@ permalink: /student/
 # Students
 
 ## Current students
-- Romain Lefeuvre, Ph.D Student (University of Rennes, France)
+- [Romain Lefeuvre](https://research.romainlefeuvre.com), Ph.D Student (University of Rennes, INRIA, France)
 
 ### McGill's resources:
 - McGill’s [Student Wellness Hub](https://www.mcgill.ca/wellness-hub/)
@@ -18,6 +18,7 @@ permalink: /student/
 - [Scholarship and Student Aid](https://www.mcgill.ca/studentaid/)
 - [Graduate Funding](https://www.mcgill.ca/gps/funding)
 - [ECE Funding Opportunities](https://www.mcgill.ca/ece/graduate/fellowshipsandawards)
+- [Summer Undergraduate Research in Engineering (SURE) program](https://www.mcgill.ca/engineering/students/undergraduate/research)
 
 ### Useful links:
 - [Zotero](https://www.zotero.org) for bibliography management (+ browser plugin)
