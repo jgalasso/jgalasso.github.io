@@ -9,15 +9,22 @@ permalink: /publications/
 ## Links
 Publications in [DBLP](https://dblp.uni-trier.de/pid/167/4978.html) / [Google Scholar](https://scholar.google.fr/citations?user=uZj-UtsAAAAJ&hl=fr&oi=sra) / [ORCID](https://orcid.org/0000-0002-9868-1814)
 
+## 2024
+
+- Zahra VaraminyBahnemiry, Jessie Galasso, Bentley James Oakes and Houari Sahraoui   
+__Improving repair of semantic ATL errors using a social diversity metric.__ Journal of Software and Systems Modelling (Sosym) (2024) ([link](https://link.springer.com/article/10.1007/s10270-024-01170-4))
+
+- Alexandre Bazin, Giacomo Kahn and Jessie Galasso  
+__Polyadic Relational Concept Analysis.__ International Journal of Approximate Reasoning, Volume 164 (2024) ([link](https://www.sciencedirect.com/science/article/pii/S0888613X23001986?via%3Dihub))
+
+
 ## 2023
-- Alexandre Bazin, Giacomo Kahn, Jessie Galasso  
-__Polyadic Relational Concept Analysis.__ Accepted in the International Journal of Approximate Reasoning 
 
  - Bentley James Oakes, Javier Troya, Jessie Galasso and Manuel Wimmer   
-__Fault Localization in DSLTrans Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis.__ Accepted in the journal of Software and Systems Modelling (Sosym) ([pdf](https://www.researchgate.net/profile/Bentley-Oakes/publication/374264497_Fault_localization_in_DSLTrans_model_transformations_by_combining_symbolic_execution_and_spectrum-based_analysis/links/65167ff21e2386049de30d20/Fault-localization-in-DSLTrans-model-transformations-by-combining-symbolic-execution-and-spectrum-based-analysis.pdf), [link](https://doi.org/10.1007/s10270-023-01123-3))
+__Fault Localization in DSLTrans Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis.__ Journal of Software and Systems Modelling (Sosym) ([pdf](https://www.researchgate.net/profile/Bentley-Oakes/publication/374264497_Fault_localization_in_DSLTrans_model_transformations_by_combining_symbolic_execution_and_spectrum-based_analysis/links/65167ff21e2386049de30d20/Fault-localization-in-DSLTrans-model-transformations-by-combining-symbolic-execution-and-spectrum-based-analysis.pdf) - [link](https://doi.org/10.1007/s10270-023-01123-3))
 
  - Romain Lefeuvre, Jessie Galasso, Benoît Combemale, Houari Sahraoui and Stefano Zacchiroli    
-__Fingerprinting and Building Large Reproducible Datasets.__ Accepted in the _1st ACM Conference on Reproducibility and Replicability_ (ACMRep 2023), pp. 27-36 (2023) ([pdf](https://hal.science/hal-04132604v1/preview/Fingerprinting_and_Building_Large_Reproducible_Datasets.pdf), [link](https://dl.acm.org/doi/10.1145/3589806.3600043))
+__Fingerprinting and Building Large Reproducible Datasets.__ In proceedings of the _1st ACM Conference on Reproducibility and Replicability_ (ACMRep 2023), pp. 27-36 (2023) ([pdf](https://hal.science/hal-04132604v1/preview/Fingerprinting_and_Building_Large_Reproducible_Datasets.pdf) - [link](https://dl.acm.org/doi/10.1145/3589806.3600043))
 
  - Jessie Galasso and Marianne Huchard   
 __Extending boolean variability relationship extraction to multi-valued software descriptions.__ Handbook of Re-Engineering Software Intensive Systems into Software Product Lines_, pp. 143-173, Springer (2023) ([pdf](https://hal-lirmm.ccsd.cnrs.fr/lirmm-04089535v1/document))
