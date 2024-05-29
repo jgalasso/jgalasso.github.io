@@ -16,9 +16,15 @@ Between 2020 and 2023, I was a postdoctoral researcher in the [Geodes](http://ge
 
 ## Events
 
-* Co-chair of the Doctoral Symposium of the [28th ACM International Systems and Software Product Line Conference (SPLC 2024)]([https://modevar.github.io](https://2024.splc.net))
+* Paper accepted in the journal of Software and Systems Modelling (__Improving repair of semantic ATL errors using a social diversity metric__) with Zahra VaraminyBahnemiry, Jessie Galasso, Bentley James Oakes and Houari Sahraoui ([link](https://link.springer.com/article/10.1007/s10270-024-01170-4))
 
-* Paper accepted in the International Journal of Approximate Reasoning (__Polyadic Relational Concept Analysis__) with Alexandre Bazin and Giacomo Kahn
+* Co-chair of the Poster track of the [27th International Conference on Model Driven Engineering Languages and Systems (MODELS'24)](https://conf.researchr.org/home/models-2024)
+
+* Co-chair of the [7th International Workshop on Languages for Modelling Variability (MODEVAR'24b)](https://modevar.github.io)
+
+* Co-chair of the Doctoral Symposium of the [28th ACM International Systems and Software Product Line Conference (SPLC'24)](https://2024.splc.net)
+
+* Paper accepted in the International Journal of Approximate Reasoning (__Polyadic Relational Concept Analysis__) with Alexandre Bazin and Giacomo Kahn ([link](https://www.sciencedirect.com/science/article/pii/S0888613X23001986?via%3Dihub))
 
 * Co-chair of the [6th International Workshop on Languages for Modelling Variability (MODEVAR'24)](https://modevar.github.io)
 
