@@ -27,6 +27,7 @@ permalink: /service/
 ### Reviewer or sub-reviewer:
 
 #### Journal
+- JSS (2024)
 - TSE (2023)
 - SCP (2023)
 - JOT (2022)
@@ -46,9 +47,9 @@ permalink: /service/
 - CLA 2016
 
 ### Organisation committee:
-
+- Poster track co-chair, MoDELS 2024
 - Doctoral Symposium co-chair, SPLC 2024
-- Co-chair, MODEVAR 2024
+- MODEVAR co-chair, VaMoS24 + SPLC24
 - MDEIntelligence, co-located with MoDELS 2023
 - Guest editor for the Special Issue on Tools and Demonstrations in Model-Driven Engineering, Science of Computer Programming
 - Tools and Demos co-chair, MoDELS 2022
