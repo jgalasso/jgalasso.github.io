@@ -16,6 +16,10 @@ Between 2020 and 2023, I was a postdoctoral researcher in the [Geodes](http://ge
 
 ## Events
 
+* DiverSE seminar (@Rennes, France) + invited talk for SmartFCA (@Nancy, France) 
+
+* [2024 ACM Conference on Reproducibility and Replicability](https://acm-rep.github.io/2024/), Rennes, France
+
 * Paper accepted in the journal of Software and Systems Modelling (__Improving repair of semantic ATL errors using a social diversity metric__) with Zahra VaraminyBahnemiry, Jessie Galasso, Bentley James Oakes and Houari Sahraoui ([link](https://link.springer.com/article/10.1007/s10270-024-01170-4))
 
 * Co-chair of the Poster track of the [27th International Conference on Model Driven Engineering Languages and Systems (MODELS'24)](https://conf.researchr.org/home/models-2024)
@@ -34,7 +38,11 @@ Between 2020 and 2023, I was a postdoctoral researcher in the [Geodes](http://ge
 
 * Paper accepted in the journal of Software and Systems Modelling (__Fault Localization in DSLTrans Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis__) with Bentley James Oakes, Javier Troya and Manuel Wimmer
 
+<!---
+
 * PC member in the [18th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS'24)](https://vamos2024.inf.unibe.ch/)
 
 * Paper accepted in ACMRep'23 (__Fingerprinting and Building Large Reproducible Datasets__) with Romain Lefeuvre, Benoît Combemale, Houari Sahraoui and Stefano Zacchiroli
+
+-->
 
