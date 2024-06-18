@@ -35,7 +35,7 @@ __Extending boolean variability relationship extraction to multi-valued software
 __Global Decision Making Over Deep Variability in Feedback-Driven Software Development.__ In proceedings of the _37th IEEE/ACM International Conference on Automated Software Engineering_ (ASE 2022), pp. 178:1-178:6 (2022)
 
 - Jessie Galasso, Michalis Famelis and Houari A. Sahraoui   
-__Fine-grained Analysis of Similar Code Snippets.__ In proceedings of the _20th International Conference on Software and Systems Reuse_ (ICSR 2022), pp. 3-21 (2022) ([link](https://dl.acm.org/doi/abs/10.1007/978-3-031-08129-3_1))
+__Fine-grained Analysis of Similar Code Snippets.__ In proceedings of the _20th International Conference on Software and Systems Reuse_ (ICSR 2022), pp. 3-21 (2022) ([link](https://dl.acm.org/doi/abs/10.1007/978-3-031-08129-3_1) - [pdf](https://michalis.famelis.info/wp-content/uploads/2022/03/icsr2022.pdf))
 
 ## 2021
 
