@@ -25,5 +25,6 @@ permalink: /student/
 - [Litmaps](https://www.litmaps.com) to discover related papers
 - [Create LateX tables online](https://www.tablesgenerator.com)
 - [Overleaf](http://overleaf.com)
+- [Bibtex Tidy](https://flamingtempura.github.io/bibtex-tidy/)
 
 
