@@ -16,11 +16,13 @@ Between 2020 and 2023, I was a postdoctoral researcher in the [Geodes](http://ge
 
 ## Events
 
+* Paper accepted in the 18th  international workshop on Models and Evolution (2024) co-located with MODELS,24 (__Towards Rapid Design of Compartmental Models.__) with  Zahra Fiyouzisabah, Marios Fokaefs and Michalis Famelis    
+
 * DiverSE seminar (@Rennes, France) + invited talk for SmartFCA (@Nancy, France) 
 
 * [2024 ACM Conference on Reproducibility and Replicability](https://acm-rep.github.io/2024/), Rennes, France
 
-* Paper accepted in the journal of Software and Systems Modelling (__Improving repair of semantic ATL errors using a social diversity metric__) with Zahra VaraminyBahnemiry, Jessie Galasso, Bentley James Oakes and Houari Sahraoui ([link](https://link.springer.com/article/10.1007/s10270-024-01170-4))
+* Paper accepted in the journal of Software and Systems Modelling (__Improving repair of semantic ATL errors using a social diversity metric__) with Zahra VaraminyBahnemiry, Bentley James Oakes and Houari Sahraoui ([link](https://link.springer.com/article/10.1007/s10270-024-01170-4))
 
 * Co-chair of the Poster track of the [27th International Conference on Model Driven Engineering Languages and Systems (MODELS'24)](https://conf.researchr.org/home/models-2024)
 
