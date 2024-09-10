@@ -11,6 +11,9 @@ Publications in [DBLP](https://dblp.uni-trier.de/pid/167/4978.html) / [Google Sc
 
 ## 2024
 
+- Zahra Fiyouzisabah, Jessie Galasso, Marios Fokaefs, Michalis Famelis    
+__Towards Rapid Design of Compartmental Models.__ 18th edition of the international workshop on Models and Evolution (2024), co-located with MODELS,24   
+
 - Zahra VaraminyBahnemiry, Jessie Galasso, Bentley James Oakes and Houari Sahraoui   
 __Improving repair of semantic ATL errors using a social diversity metric.__ Journal of Software and Systems Modelling (Sosym) (2024) ([link](https://link.springer.com/article/10.1007/s10270-024-01170-4))
 
