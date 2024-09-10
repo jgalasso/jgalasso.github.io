@@ -7,10 +7,12 @@ permalink: /student/
 # Students
 
 ## Current students
+
 ### PhD
-- [Romain Lefeuvre](https://research.romainlefeuvre.com): _Context aware analysis and optimization of software energy efficiency at application level_, University of Rennes, INRIA, France (co-supervisor) - 2023-present
+- [Romain Lefeuvre](https://research.romainlefeuvre.com): _Context aware analysis and optimization of software energy efficiency at application level_, University of Rennes, INRIA, France (co-supervisor) - 2023-present   
+   
 ### Undergraduate projects
-- Remi Carriere, Ariane Leroux, Lucas Pacicco and Sarah Zhang: _e-IMPAQc Mobile App for Caregivers of Cancer Patients_ - 2023-24
+- Remi Carriere, Ariane Leroux, Lucas Pacicco and Sarah Zhang: _e-IMPAQc Mobile App for Caregivers of Cancer Patients_ - 2023-24   
 
 ## McGill's resources:
 - McGill’s [Student Wellness Hub](https://www.mcgill.ca/wellness-hub/)
