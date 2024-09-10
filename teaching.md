@@ -8,6 +8,7 @@ permalink: /teaching/
 
 ### University McGill
 - ECSE 321 - Introduction to Software Engineering (Winter 2024)
+- ECSE 869 - Empirical Methods in Software Engineering (Fall 2024)
 
 ### University of Montréal, Canada (TA, 2020)
 - IFT 2255 – Génie logiciel
