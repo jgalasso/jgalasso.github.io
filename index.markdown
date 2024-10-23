@@ -13,10 +13,16 @@ Since August 2023, I am an Assistant Professor in the [Department of Electrical 
 I received a Ph.D in Computer Science in 2018 from the University of Montpellier (France), during which I worked with symbolic AI for model extraction and software product line reverse engineering. I continued this work with complex software product lines as a teaching and research assistant between 2018 and 2019. From 2019 to 2020, I worked on problematics related to knowledge representation, interoperability and ontology matching at the [French National Institute for Sustainable Development](https://www.ird.fr/) (IRD). 
 Between 2020 and 2023, I was a postdoctoral researcher in the [Geodes](http://geodes.iro.umontreal.ca/fr/) group at the University of Montréal.  I obtained an [IVADO](https://ivado.ca/en/) [postdoctoral research funding](https://ivado.ca/en/scholarships-and-grants/postdoctoral-research-funding/) in October 2020 to work on machine learning and optimisation approaches for source code recommendation.
 
-We are currently looking for students for a [postdoctoral position in SE4AI](https://jgalasso.github.io/student/postdoc2025)
+## Prospective Students
+
+> We are currently looking for students for a [postdoctoral position in SE4AI](https://jgalasso.github.io/student/postdoc2025)
 
 
 ## Events
+
+* PC member in the [32th  IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'25)](https://conf.researchr.org/home/saner-2025)
+
+* Invited talk + lecture @ OntarioTech (Oshawa, Canada)
 
 * Paper accepted in the 18th  international workshop on Models and Evolution (2024) co-located with MODELS,24 (__Towards Rapid Design of Compartmental Models.__) with  Zahra Fiyouzisabah, Marios Fokaefs and Michalis Famelis    
 
