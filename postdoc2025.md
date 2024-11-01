@@ -24,7 +24,7 @@ The goal of this postdoctoral research is to improve the efficiency and accessib
 - Strong analytical and problem-solving skills. 
  
 ### Practical information 
-- The selected candidate will work under the supervision of Jessie Galasso (McGill University), Houari Sahraoui (Université de Montréal) and Ulrich Aïvodji (ÉTS), in Montréal, Canada. 
+- The selected candidate will work under the supervision of Jessie Galasso (McGill University) and Houari Sahraoui (Université de Montréal), in collaboration with Ulrich Aïvodji (ÉTS) and Foutse Khomh (École Polytechnique de Montréal), in Montréal, Canada. 
 - The position is available immediately, with an **ideal start in January 2025**. 
 - Candidates should submit a cover letter and a research CV to jessie.galasso-carbonnel@mcgill.ca 
 
